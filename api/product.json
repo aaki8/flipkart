@@ -1,0 +1,91 @@
+ [
+    {
+        "id":1,
+         "name":"Laptop",
+         "category":"computers",
+         "brand":"ExampleBrand",
+         "price":999.99,
+         "stock":50,
+         "description":"Powerful processor 8gb ram 128gb rom 50px camera 16mp front camera",
+         "image":"/E-comm-assets/png Laptop.jpg"
+    },
+    {
+        "id":2,
+        "name":"Iphone 15",
+         "category":"Mobile",
+         "brand":"Apple",
+         "price":999.99,
+         "stock":50,
+         "description":"Best Laptop 8Gb ram 256 SSD i9 intel processor ",
+         "image":"/E-comm-assets/Png ipone.png"
+    },
+    {
+        "id":3,
+        "name":"Headphone",
+         "category":"Music",
+         "brand":"ExampleBrand",
+         "price":999.99,
+         "stock":25,
+         "description":"powerful processor 8gb ram 128gb rom 50px camera 16mp front camera",
+         "image":"/E-comm-assets/headphones_PNG101963.png"
+    },
+    {
+        "id":4,
+        "name":"Neckband",
+         "category":"computers",
+         "brand":"ExampleBrand",
+         "price":999.99,
+         "stock":2,
+         "description":"powerful processor 8gb ram 128gb rom 50px camera 16mp front camera",
+         "image":"/E-comm-assets/Neckband.png"
+    },
+    {
+        "id":5,
+        "name":"Earphone",
+         "category":"computers",
+         "brand":"ExampleBrand",
+         "price":499,
+         "stock":30,
+         "description":"powerful processor 8gb ram 128gb rom 50px camera 16mp front camera",
+         "image":"/E-comm-assets/earphones_PNG5.png"
+    },{
+        "id":6,
+        "name":"Samsung S24",
+         "category":"computers",
+         "brand":"ExampleBrand",
+         "price":100000,
+         "stock":50,
+         "description":"powerful processor 8gb ram 128gb rom 50px camera 16mp front camera",
+         "image":"/E-comm-assets/S24 ultra.png"
+    },
+    {
+        "id":7,
+        "name":"Samsung S24",
+         "category":"computers",
+         "brand":"ExampleBrand",
+         "price":1999.99,
+         "stock":50,
+         "description":"powerful processor 8gb ram 128gb rom 50px camera 16mp front camera",
+         "image":"/E-comm-assets/S24 ultra.png"
+    },
+    {
+        "id":8,
+        "name":"Earphone",
+         "category":"computers",
+         "brand":"ExampleBrand",
+         "price":399.99,
+         "stock":20,
+         "description":"powerful processor 8gb ram 128gb rom 50px camera 16mp front camera",
+         "image":"/E-comm-assets/earphones_PNG5.png"
+    },
+    {
+        "id":9,
+        "name":"Earphone",
+         "category":"computers",
+         "brand":"ExampleBrand",
+         "price":499.99,
+         "stock":80,
+         "description":"powerful processor 8gb ram 128gb rom 50px camera 16mp front camera",
+         "image":"/E-comm-assets/Earphone.png"
+    }
+]
